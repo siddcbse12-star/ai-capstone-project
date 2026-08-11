@@ -4,7 +4,9 @@ This project is being developed as part of my capstone project.
 
 ## Overview
 
-A brief description of the project will be added here.
+This project is an AI-assisted web application designed to
+help users solve a specific problem through an easy-to-use
+interface.
 
 ## Features
 
