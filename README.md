@@ -32,3 +32,10 @@ Usage instructions will be added later.
 ## Project Status
 
 Currently under development.
+
+## Project Goals
+
+- Build a functional application.
+- Apply AI-assisted development practices.
+- Follow clean coding conventions.
+- Maintain a clear Git history.
