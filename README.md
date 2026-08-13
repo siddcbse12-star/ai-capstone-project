@@ -23,6 +23,12 @@ interface.
 
 ## Installation
 
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (LTS recommended)
+- npm (included with Node.js) or yarn
+- [MongoDB](https://www.mongodb.com/) (local instance or MongoDB Atlas)
+
 Installation instructions will be added as development progresses.
 
 ## Usage
