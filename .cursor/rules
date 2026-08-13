@@ -1,0 +1,28 @@
+project-conventions.mdc
+
+Project: AI Capstone Project
+
+Technology Stack:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js
+- Database: MySQL
+
+Coding conventions:
+- Use clear variable names.
+- Keep functions small and focused.
+- Avoid unnecessary dependencies.
+- Write readable and maintainable code.
+- Do not expose API keys or secrets.
+
+Git conventions:
+- Use Conventional Commits.
+- Use feat for new features.
+- Use fix for bug fixes.
+- Use docs for documentation.
+- Use chore for project maintenance.
+
+General rules:
+- Do not modify unrelated files.
+- Explain significant changes.
+- Prefer simple solutions.
+- Review changes before committing.

@@ -16,10 +16,10 @@ interface.
 
 ## Tech Stack
 
-- Frontend: TBD
-- Backend: TBD
-- Database: TBD
-- AI: TBD
+- **Frontend:** React
+- **Backend:** Node.js with Express
+- **Database:** MongoDB
+- **AI:** TBD (integration approach to be defined during development)
 
 ## Installation
 
