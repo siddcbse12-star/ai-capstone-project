@@ -24,3 +24,17 @@ General rules:
 - Explain significant changes.
 - Prefer simple solutions.
 - Review changes before committing.
+
+AI DEVELOPMENT WORKFLOW RULES
+
+1. Form features must include validation requirements for every required field, including empty values and invalid input cases.
+
+2. Interactive form components must include accessible labels, aria-invalid for invalid fields, and aria-describedby linking validation messages to their inputs.
+
+3. After implementing a form feature, verify both valid and invalid submission behavior before considering the feature complete.
+
+4. Important user-facing form behavior should have automated tests using Vitest and React Testing Library when practical.
+
+5. Keep AI-generated implementations focused on the requested feature and avoid adding unnecessary fields, dependencies, or unrelated functionality.
+
+6. When using AI to modify an existing component, review the generated diff before committing and verify that unrelated files have not been changed unnecessarily.
